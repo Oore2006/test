@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 2px so;
+
+}
+.hero{
+    
+    background-repeat: no-repeat;
+   
+    width: 50em;
+    background-image: url(images/i-school.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.image-fluid{
+    position: absolute;
+    top: 150px;
+    left: 52em;
+}
+
+.topper{
+    margin-top: 25%;
+}
